@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+}
+
+form {
+    border: solid 2px;
+    width: 300px;
+    height: 430px;
+    background: #000000;
+    border-radius: 5px;
+    font-family: arial;
+}
+
+#visor {
+    width: 97%;
+    height: 80px;
+    background: #000000;
+    color: #ffffff;
+    border: 0px;
+    font-size: 30px;
+}
+
+.botao, .botao_op, .botao_resp, .botao_av {
+    width: 65px;
+    height: 65px;
+    border-radius: 50px;
+    margin: 2px;
+    border: 0px;
+    color: #ffffff;
+    background: #424141;
+    font-size: 16px;
+    outline: none;
+}
+
+.botao_op, .botao_resp{
+    background: #ff3c00;
+}
+.botao_av{
+    background: #bbbbbb;
+    color: #000000;
+}

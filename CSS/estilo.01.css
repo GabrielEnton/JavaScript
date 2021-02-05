@@ -1,0 +1,24 @@
+table{
+    text-align: center;
+    background: #cccccc;
+    color: #cccccc;
+    line-height: 30px;
+}
+
+th{
+    background: #000033;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+td{
+    background: #000066;
+    font-size: 14px;
+}
+
+/*tamanho-da-fonte:15px, peso-da-fonte:700 e cor-de-fundo:#000033.
+
+Formate as demais células da tabela usando os seguintes atributos:
+
+tamanho-da-fonte:14px e cor-de-fundo:#000066. Todo o texto da tabela
+deve ter cor #CCCCCC e a tabela deve ter o atributo cor-de-fundo setado em #CCCCCC.*/

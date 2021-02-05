@@ -1,0 +1,36 @@
+#box1{
+    background: #d62727;
+    width: 350px;
+    height: 350px;
+    border: 1px solid black;
+    font-size: 40px;
+
+}
+
+#box2{
+    background: #59cbdf;
+    display: none;
+    width: 350px;
+    height: 350px;
+    border: 1px solid black;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+}
+
+#box3{
+    background: #36b947;
+    display: none;
+    width: 350px;
+    height: 350px;
+    border: 1px solid black;
+}
+
+#btn1,#btn2,#btn3{
+    background: #85027e;
+    border-radius: 10px 10px 0px 0px;
+    width: 100px;
+    margin-bottom: 2px;
+}
